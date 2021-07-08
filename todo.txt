@@ -1,0 +1,6 @@
+ **--to do list--**
+ 
+ --setup env and basics
+ --create index
+ --create room
+ --enable room connection
